@@ -1,4 +1,7 @@
-## Hi there 👋
+## Welcome to the Staley Robotics GitHub (ill actually fill this in later)
+
+### We will be using the StaleyRC2023 repo starting 2/6/23
+### All other repos will be archived so they can stay on this page
 
 <!--
 
