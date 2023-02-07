@@ -1,15 +1,9 @@
-## Welcome to the Staley Robotics GitHub (ill actually fill this in later)
+## Welcome to the Staley Robotics GitHub!
+We are Team 4959 a.k.a. the "Millennium Falcons"
 
-### We will be using the StaleyRC2023 repo starting 2/6/23
-### All other repos will be archived so they can stay on this page
+![RoboFalcon](https://static.wixstatic.com/media/a0c869_5d467ca9ac5d4120b341e3a79a067ab4~mv2.png/v1/fill/w_294,h_232,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Edited%20Image%202014-2-21-15_3_59_edited.png)
 
-<!--
+Here you can find our current repos and code
+> We are currently using python in StaleyRC2023
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+##### [Click here](https://www.staleyrobotics.com/) to visit our team website
